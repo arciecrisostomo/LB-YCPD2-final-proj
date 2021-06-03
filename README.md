@@ -56,7 +56,7 @@ Once the file has been installed, extracted, and opened in PyCharm, an interpret
       <li><i>Delete Product</i> to delete an existing product within the available products' database</li>
       <li><i>View Sold Items Database</i> to view a database of the transactions created.</li>
       <li><i>View Products Database</i> to view a database of the products offered to be sold.</li>
-      <li><i>View Raw Materials Database</i> to view a database of the raw materials used for the creation products.</li>
+      <li><i>View Raw Materials Database</i> to view a database of the raw materials used for the creation of products.</li>
     </ol>
   <li>User may logout of the site.</li>
 </ol>
