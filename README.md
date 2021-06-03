@@ -60,6 +60,16 @@ Once the file has been installed, extracted, and opened in PyCharm, an interpret
     </ol>
   <li>User may logout of the site.</li>
 </ol>
+<b>Setting up a Local Database</b>
+<ol>
+  <li>From PyCharm, access the right-side of the IDE entitled <i>Database</i>
+  <li>Find the "+" icon on the menubar of the window and press <i>Data Source</i>, and <i>PostgreSQL</i>
+  <li>Change the Database textfield to your desired name for your database </li>
+  <li>Add a user and password for your database for ease of access</li>
+  <li>Click Test Connection to see if your database is running</li>
+  <li>Press Apply and OK to continue</li>
+</ol>
+
   
   ## Revision Logs and Version History
   
